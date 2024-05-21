@@ -98,8 +98,16 @@
 
 // boolean10
 
-// boolean11
+// alert ('a va b toq soni berilgan jumlani rostlikka tekshiring a va b sonlarining faqat bittasi toq son')
+// let a = +prompt ('a');
+// let b  = +prompt ('b');
+// if (a % 2 == 1 && b % 2 == 0|| a % 2 == 0 && b % 2 == 1) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// } 
 
+// boolean11
 
 // alert ('a va b toq soni berilgan jumlani rostlikka tekshiring a va b sonlarining har ikkalasiham toq son yoki juft son')
 // let a = +prompt ('a');
@@ -135,6 +143,18 @@
 // } 
 
 // boolean14
+
+// alert ('a b c soni berilgan jumlani rostlikka tekshiring sonlarning faqat bittasi musbat')
+// let a = +prompt ('a');
+// let b  = +prompt ('b');
+// let c  = +prompt ('c');
+// if ( a > 0 && b < 0 && c < 0 || a < 0 && b > 0 && c < 0  || a < 0 && b < 0 && c > 0 ){
+//     console.log(true);
+// } else {
+//     console.log(false);
+// } 
+
+
 
 // boolean15
 
